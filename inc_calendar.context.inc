@@ -84,7 +84,7 @@ function inc_calendar_context_default_contexts() {
         'views-inc_calendar-block_3' => array(
           'module' => 'views',
           'delta' => 'inc_calendar-block_3',
-          'region' => 'sidebar_last',
+          'region' => 'sidebar_first',
           'weight' => 0,
         ),
       ),
